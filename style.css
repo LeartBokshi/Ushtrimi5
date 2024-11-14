@@ -29,4 +29,22 @@ header {
     .menu ul li {
         margin: 10px 0;
     }
+    .menu ul li a {
+        text-decoration: none;
+        color: blue;
+    }
     
+ 
+    .content {
+        width: 70%;
+        float: right;
+        padding: 20px;
+        background-color: #f9f9f9;
+        border-radius: 10px;
+    }
+    
+    .content h2 {
+        font-size: 1.8em;
+        color: black;
+        margin-bottom: 10px;
+    }    
